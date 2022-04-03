@@ -1,10 +1,10 @@
 # Dota 2 Skirmish issues
-Public repository for [Dota 2 Skirmish Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2575815333). Mainly for raising issues and some documentation.
+Public repository for [Dota 2 Skirmish Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2575815333) and [Dota 2 Skirmish web](https://dota2skirmish.com). Mainly for raising issues and some documentation.
 
 
 ## Issues
 Please, read known issues section before raising any new one. We are in development, so no need to waste time with raising known issues. 
-If you find something wrong witht he mod or parsing website, feel free to raise an issue. Prefferably with examples (match id, timestamp, description of mod behaviour, expected behavior). 
+If you find something wrong witht he mod or parsing website, feel free to raise an issue. Prefferably with examples (match id, timestamp, description of mod/web behaviour, expected behavior). 
 
 ## Known issues
 - Visual roshan  heathbar glitch
@@ -18,8 +18,9 @@ If you find something wrong witht he mod or parsing website, feel free to raise 
 
 ## Links
 - discord: https://discord.gg/MM3VyPGtpf
+- web: https://dota2skirmish.com
 - trailer: https://www.youtube.com/watch?v=M0YlCiRYAe0
 - twitter: https://twitter.com/letusskirmish
 - mod: https://steamcommunity.com/sharedfiles/filedetails/?id=2575815333
-- email: dota2skirmish@gmail.com
+- email: natalia@dota2skirmish.com
 - patreon: https://www.patreon.com/dota2skirmish
